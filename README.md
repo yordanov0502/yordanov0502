@@ -1,10 +1,10 @@
-Hello 👋, I am Todor Yordanov
+<h1 style="color:red;font-size:40px;">Hello 👋, I am Todor Yordanov</h1>  
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
 
 
-<h1 style="color:red;font-size:40px;">Heading</h1>  
+
 
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
