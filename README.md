@@ -6,7 +6,7 @@
 <ul>🏆 I’m keen on competitive programming</ul>
 <ul>🖥️ I code in C++,JAVA,HTML,PHP and SQL</ul>
 <ul>👨‍💻 You can also track my progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
-<ul>📫 For collaborations or any questions you can contact me at <a href="mailto:yordanovtodor281@gmail.com">user@example.com</a></ul>
+<ul>📫 For collaborations or any questions you can contact me at <a href="mailto:yordanovtodor281@gmail.com">yordanovtodor281@gmail.com</a></ul>
   
   
 <!--
