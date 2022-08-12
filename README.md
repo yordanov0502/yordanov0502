@@ -1,6 +1,4 @@
-h1 {
-  text-align: center;
-}<h1>Hello 👋, I am Todor Yordanov</h1>
+<h1>Hello 👋, I am Todor Yordanov</h1>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
