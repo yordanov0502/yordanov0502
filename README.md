@@ -2,10 +2,9 @@ Hello 👋, I am Todor Yordanov
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
-<span class="icon-fallback-text">
-	<span class="icon icon-glyph" aria-hidden="true"></span>
-	<span class="text" style="font-size:30px">Fallback Text</span>
-</span>
+
+
+<h1 style="color:red;font-size:40px;">Heading</h1>  
 
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
