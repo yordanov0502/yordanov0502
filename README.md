@@ -1,4 +1,5 @@
 <h1 style="text-align:center;font-size:40px;">Hello 👋, I am Todor Yordanov</h1>  
+<p style="text-align:center">Center this text!</p>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
