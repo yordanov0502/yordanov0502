@@ -1,5 +1,7 @@
 <h1>Hello 👋, I am Todor Yordanov</h1>
 
+<h1 class="first-class" align="center">This is first heading 1</h1>
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
 
