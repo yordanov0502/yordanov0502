@@ -6,7 +6,7 @@
 <ul>🏆 I’m keen on competitive programming</ul>
 <ul>🖥️ I code in C++,JAVA,HTML,PHP and SQL</ul>
 <ul>👨‍💻 You can also track my progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
-<ul>📫 For collaborations or any questions you can contact me at yordanovtodor281@gmail.com</ul>
+<ul>📫 For collaborations or any questions you can contact me at yordanovtodor281@gmail.com </ul>
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
