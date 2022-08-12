@@ -4,7 +4,7 @@ Hello 👋, I am Todor Yordanov
 
 <span class="icon-fallback-text">
 	<span class="icon icon-glyph" aria-hidden="true"></span>
-	<span class="text">Fallback Text</span>
+	<span class="text" size=30>Fallback Text</span>
 </span>
 
 <!--
