@@ -4,7 +4,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
 <ul>🏆 I’m keen on competitive programming</ul>
-
+<ul>🖥️ I code in C++,JAVA,HTML,PHP and SQL
 
 
 <!--
