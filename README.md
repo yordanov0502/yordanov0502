@@ -4,7 +4,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
 <ul>🏆 I’m keen on competitive programming</ul>
-<ul>🖥️ I code in C++,JAVA,HTML,PHP and SQL
+<ul>🖥️ I code in C++,JAVA,HTML,PHP and SQL</ul>
 <ul>👨‍💻 You can also track my progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
 
 <!--
