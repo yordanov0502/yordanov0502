@@ -1,5 +1,6 @@
-### Hi there 👋
+Hello 👋, I am Todor Yordanov
 
+![image title](https://rushter.com/counter.svg)
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
