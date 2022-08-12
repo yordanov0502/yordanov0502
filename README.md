@@ -1,6 +1,7 @@
 Hello 👋, I am Todor Yordanov
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+
 
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
