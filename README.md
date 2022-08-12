@@ -1,4 +1,4 @@
-<h1 style="color:red;font-size:40px;">Hello 👋, I am Todor Yordanov</h1>  
+<h1 font-size:40px;text-align:center>Hello 👋, I am Todor Yordanov</h1>  
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
