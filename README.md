@@ -10,7 +10,7 @@
   
 <h3>Programming languages:</h3>
 <a href="https://www.qries.com/">
-         <img alt="Qries" src="[https://www.qries.com/images/banner_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)"
+         <img alt="Qries" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"
          width=150" height="70">
       </a>
 <!--
