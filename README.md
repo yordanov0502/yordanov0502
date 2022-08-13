@@ -22,6 +22,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=30" height="30">
 </a>
 
-<a href="[https://www.w3schools.com/html/default.asp](https://www.php.net/)">
+<a href="https://www.php.net/">
 <img src="https://en.wikipedia.org/wiki/PHP#/media/File:PHP-logo.svg" width=30" height="30">
 </a>
