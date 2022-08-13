@@ -17,3 +17,8 @@
 <a href="https://www.java.com/en/">
 <img src="https://softuni.bg/Content/images/university/professions/java.svg" width=30" height="30">
 </a>
+
+<a href="[https://www.java.com/en/](https://www.w3schools.com/html/default.asp)">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=30" height="30">
+</a>
+
