@@ -26,4 +26,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" width=30" height="30">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=tokyonight)](https://github.com/yordanov0502/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=gotham)](https://github.com/yordanov0502/github-readme-stats)
