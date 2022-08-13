@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Todor Yordanov</h1>
-<h3 align="center">and I'm currently studying software engineering at Technical University of Varna<h3>
+<h3 align="center">and I'm currently studying software engineering at Technical University of Varna</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
 
