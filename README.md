@@ -23,5 +23,5 @@
 </a>
 
 <a href="https://www.php.net/">
-<img src="https://en.wikipedia.org/wiki/PHP#/media/File:PHP-logo.svg" width=30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" width=30" height="30">
 </a>
