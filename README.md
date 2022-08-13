@@ -19,6 +19,6 @@
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
-<img src="https://www.html5rocks.com/static/demos/svgmobile_fundamentals/images/html5-1920x1200.png" width=30" height="30">
+<img src="https://www.html5rocks.com/static/demos/svgmobile_fundamentals/images/html5-1920x1200.png" width=60" height="30">
 </a>
 
