@@ -27,5 +27,3 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
-
-![yordanov0502's GitHub stats](https://github-readme-stats.vercel.app/api?username=yordanov0502&theme=aura&show_icons=true)
