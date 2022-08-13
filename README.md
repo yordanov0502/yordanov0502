@@ -8,7 +8,7 @@
 <ul>👨‍💻 You can also track my progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
 <ul>📫 For collaborations or any questions you can contact me at <a href="mailto:yordanovtodor281@gmail.com">yordanovtodor281@gmail.com</a></ul>
   
-<ul><h3>Programming languages</h3></ul>
+<h3>Programming languages</h3>
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
