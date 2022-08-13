@@ -8,7 +8,11 @@
 <ul>👨‍💻 You can also track my progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
 <ul>📫 For collaborations or any questions you can contact me at <a href="mailto:yordanovtodor281@gmail.com">yordanovtodor281@gmail.com</a></ul>
   
-<h3>Programming languages</h3>
+<h3>Programming languages:</h3>
+<a href="https://www.qries.com/">
+         <img alt="Qries" src="[https://www.qries.com/images/banner_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)"
+         width=150" height="70">
+      </a>
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
