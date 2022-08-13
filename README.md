@@ -19,6 +19,6 @@
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
-<img src="https://www.w3.org/html/logo/" width=60" height="30">
+<img src="https://www.w3.org/html/logo/" width=30" height="30">
 </a>
 
