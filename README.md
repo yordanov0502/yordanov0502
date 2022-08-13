@@ -11,7 +11,7 @@
 <h3>Programming languages:</h3>
 <a href="https://www.qries.com/">
          <img alt="Qries" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"
-         width=40" height="40">
+         width=30" height="30">
       </a>
 <!--
 **yordanov0502/yordanov0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
