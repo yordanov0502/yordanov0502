@@ -38,5 +38,11 @@
 <a href="https://www.apachefriends.org/">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" width=30" height="30">
 </a>
+                                                                                                                              
+                                                                                                                             https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png
+                                                                                                                              
+<a href="https://www.oracle.com/database/sqldeveloper/">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width=30" height="30">
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
