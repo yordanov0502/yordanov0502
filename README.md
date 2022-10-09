@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://kernel.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=50" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=30" height="30">
 </a>
 
 
@@ -48,7 +48,7 @@
 </a>
                                                                   
 <a href="https://visualstudio.microsoft.com/">
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width=30" height="30">
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width=50" height="30">
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
