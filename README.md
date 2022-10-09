@@ -43,8 +43,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width=30" height="30">
 </a>
 
-https://venzi.files.wordpress.com/2018/10/appdev_database-xe-alt_detailed.png
-
 <a href="https://www.oracle.com/database/technologies/database-11g-express-edition.html">
 <img src="https://venzi.files.wordpress.com/2018/10/appdev_database-xe-alt_detailed.png" width=30" height="30">
 </a>
