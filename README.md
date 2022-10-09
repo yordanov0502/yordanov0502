@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://www.oracle.com/database/technologies/database-11g-express-edition.html">
-<img src="https://venzi.files.wordpress.com/2018/10/appdev_database-xe-alt_detailed.png" width=30" height="30">
+<img src="https://p.kindpng.com/picc/s/0-2913_oracle-database-hd-png-download.png" width=30" height="30">
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
