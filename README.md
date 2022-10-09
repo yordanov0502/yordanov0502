@@ -51,4 +51,8 @@
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width=40" height="30">
 </a>
 
+<a href="https://www.jetbrains.com/idea/">
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width=30" height="30">
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
