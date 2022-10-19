@@ -11,48 +11,52 @@
 <h3>I have experience in the following languages and tools as well:</h3>
 
 <a href="https://isocpp.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width=30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="30">
 </a>
 
 <a href="https://www.java.com/en/">
-<img src="https://softuni.bg/Content/images/university/professions/java.svg" width=30" height="30">
+<img src="https://softuni.bg/Content/images/university/professions/java.svg" width="30" height="30">
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=30" height="30">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30">
 </a>
 
 <a href="https://www.php.net/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" width=30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" width="30" height="30">
 </a>
 
 <a href="https://www.w3schools.com/cs/index.php">
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width=30" height="30">
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="30" height="30">
 </a>
 
 <a href="https://kernel.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="30" height="30">
 </a>
 
 
 <a href="https://www.apachefriends.org/">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" width=30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" width="30" height="30">
 </a>                                                                                                                           
                                                                                                                               
 <a href="https://www.oracle.com/database/sqldeveloper/">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width=30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width="30" height="30">
 </a>
 
 <a href="https://www.oracle.com/database/technologies/database-11g-express-edition.html">
-<img src="https://p.kindpng.com/picc/s/0-2913_oracle-database-hd-png-download.png" width=30" height="30">
+<img src="https://p.kindpng.com/picc/s/0-2913_oracle-database-hd-png-download.png" width="30" height="30">
 </a>
                                                                   
 <a href="https://visualstudio.microsoft.com/">
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width=40" height="30">
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="40" height="30">
 </a>
 
 <a href="https://www.jetbrains.com/idea/">
-<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width=30" height="30">
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="30" height="30">
+</a>
+
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="30" height="30">
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
