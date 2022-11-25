@@ -46,6 +46,10 @@
 <a href="https://www.oracle.com/database/technologies/database-11g-express-edition.html">
 <img src="https://p.kindpng.com/picc/s/0-2913_oracle-database-hd-png-download.png" width="30" height="30">
 </a>
+
+<a href="https://git-scm.com/">
+<img src= "https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="30" height="30">
+</a>
                                                                   
 <a href="https://visualstudio.microsoft.com/">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="40" height="30">
