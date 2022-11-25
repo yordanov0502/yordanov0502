@@ -60,6 +60,8 @@
 </a>
 
 <h3>Connect with me:</h3>
-
+<a href="https://www.facebook.com/profile.php?id=100004242373578&viewas=&show_switched_toast=false&show_switched_tooltip=false&is_tour_dismissed=false&is_tour_completed=false&show_podcast_settings=false&show_community_transition=false&show_community_review_changes=false&should_open_composer=false&badge_type=NEW_MEMBER&show_community_rollback_toast=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true">
+<img src= "https://www.rpc.ox.ac.uk/wp-content/uploads/2021/10/Facebook-Logo.png" width="30" height="30">
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
