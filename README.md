@@ -68,4 +68,8 @@
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="30" height="30">
 </a>
 
+<a href="https://www.hackerrank.com/Todor_Yordanov?hr_r=1">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="30" height="30">
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
