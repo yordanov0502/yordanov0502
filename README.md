@@ -59,4 +59,7 @@
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="30" height="30">
 </a>
 
+<h3>Connect with me:</h3>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)
