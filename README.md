@@ -76,5 +76,5 @@
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="30" height="30">
 </a>
 
-
-[![Top Langs]<!--(https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov0502&layout=compact&theme=aura)](https://github.com/yordanov0502/github-readme-stats)-->
