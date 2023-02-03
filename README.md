@@ -56,7 +56,7 @@
 </a>
 
 <a href="https://www.jetbrains.com/idea/">
-<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="30" height="30">
 </a>
 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
