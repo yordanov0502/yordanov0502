@@ -47,7 +47,7 @@
 <img src="https://p.kindpng.com/picc/s/0-2913_oracle-database-hd-png-download.png" width="30" height="30">
 </a>
 
-<a href="https://git-scm.com/">
+<a href="https://hibernate.org/">
 <img src= "https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30">
 </a>
                                                                   
