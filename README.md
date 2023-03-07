@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://git-scm.com/">
-<img src= "https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="30" height="30">
+<img src= "https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30">
 </a>
                                                                   
 <a href="https://visualstudio.microsoft.com/">
