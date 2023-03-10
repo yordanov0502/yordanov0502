@@ -34,7 +34,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWJi4USbJq-RgjDlA3b04yHNkhwrA-EZ4iMHEO6nMggZmXS197iiHN-GUpP8VxxDe6_4&usqp=CAU" width="30" height="30">
 </a>
 
-<a href="https://www.oracle.com/database/">
+<a href="https://www.postgresql.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30">
 </a>
 
