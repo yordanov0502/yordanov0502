@@ -23,13 +23,7 @@
 </a>
 
 
-<a href="https://www.w3schools.com/cs/index.php">
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="30" height="30">
-</a>
 
-<a href="https://kernel.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="30" height="30">
-</a>
 
 
                                                                                                                       
