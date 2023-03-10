@@ -18,7 +18,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="30">
 </a>
 
-<a href="https://isocpp.org/">
+<a href="https://www.w3schools.com/sql/">
 <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="32" height="32">
 </a>
 
