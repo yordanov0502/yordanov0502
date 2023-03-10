@@ -27,7 +27,7 @@
 </a>                                                                                                                  
                                                                                                                               
 <a href="https://www.oracle.com/database/sqldeveloper/">
-<img src="https://www.tutorialspoint.com.cach3.com/assets/videos/courses/99/images/course_99_image.png" width="30" height="30">
+<img src="https://icon2.cleanpng.com/20180717/ulj/kisspng-computer-icons-oracle-database-clip-art-db-logo-5b4d9ea91f7d32.143436241531813545129.jpg" width="30" height="30">
 </a>
 
 <a href="https://hibernate.org/">
