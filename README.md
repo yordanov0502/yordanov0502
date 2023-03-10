@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://isocpp.org/">
-<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="35" height="35">
+<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="32" height="32">
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
