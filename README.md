@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://isocpp.org/">
-<img src="https://viettelidc.com.vn/uploadimage/Root/root/06-02-tinh-nang-cua-sql-server.jpg" width="30" height="30">
+<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="30" height="30">
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
