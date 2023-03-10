@@ -18,6 +18,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="30">
 </a>
 
+<a href="https://isocpp.org/">
+<img src="https://viettelidc.com.vn/uploadimage/Root/root/06-02-tinh-nang-cua-sql-server.jpg" width="30" height="30">
+</a>
+
 <a href="https://www.w3schools.com/html/default.asp">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30">
 </a>
