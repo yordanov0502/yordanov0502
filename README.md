@@ -22,9 +22,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30">
 </a>
 
-<a href="https://www.php.net/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" width="30" height="30">
-</a>
 
 <a href="https://www.w3schools.com/cs/index.php">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="30" height="30">
@@ -35,9 +32,7 @@
 </a>
 
 
-<a href="https://www.apachefriends.org/">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" width="30" height="30">
-</a>                                                                                                                           
+                                                                                                                      
                                                                                                                               
 <a href="https://www.oracle.com/database/sqldeveloper/">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width="30" height="30">
