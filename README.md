@@ -31,7 +31,7 @@
 </a>                                                                                                                  
       
 <a href="https://spring.io/">
-<img src= "https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png" width="30" height="30">
+<img src= "https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png" width="30" height="30">
 </a>   
       
 <a href="https://www.oracle.com/database/">
