@@ -31,7 +31,7 @@
 </a>                                                                                                                  
       
 <a href="https://spring.io/">
-<img src= "https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png" width="30" height="30">
+<img src= "https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/227/formation-java-spring-web.png" width="30" height="30">
 </a>   
       
 <a href="https://www.oracle.com/database/">
