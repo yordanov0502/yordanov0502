@@ -33,10 +33,6 @@
 <a href="https://spring.io/">
 <img src= "https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/227/formation-java-spring-web.png" width="30" height="30">
 </a>
-
-<a href="https://spring.io/">
-<img src= "https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="30" height="30">
-</a> 
       
 <a href="https://www.oracle.com/database/">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWJi4USbJq-RgjDlA3b04yHNkhwrA-EZ4iMHEO6nMggZmXS197iiHN-GUpP8VxxDe6_4&usqp=CAU" width="30" height="30">
