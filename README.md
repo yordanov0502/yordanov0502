@@ -29,7 +29,11 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="30" height="30">
 </a>                                                                                                                  
-      
+
+<a href="https://react.dev/">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="30" height="30">
+</a>    
+
 <a href="https://spring.io/">
 <img src= "https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/227/formation-java-spring-web.png" width="30" height="30">
 </a>
