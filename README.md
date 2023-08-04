@@ -30,6 +30,11 @@
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="30" height="30">
 </a>                                                                                                                  
 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src= "https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" width="30" height="30">
+</a>  
+
 <a href="https://react.dev/">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="30" height="30">
 </a>    
