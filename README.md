@@ -51,6 +51,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30">
 </a>
 
+<a href="https://www.mongodb.com/">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="30" height="30">
+</a>
+
 <a href="https://hibernate.org/">
 <img src= "https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30">
 </a>
