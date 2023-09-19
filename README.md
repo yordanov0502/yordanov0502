@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am Todor Yordanov</h1>
 <h3 align="center">and I'm currently studying software engineering at Technical University of Varna</h3>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)
+<!--![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)-->
 
 <ul>🏆 I’m keen on competitive programming (1x🥇,1x🥉)</ul>
 <ul>🖥️ I mostly code with JAVA</ul>
