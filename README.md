@@ -22,6 +22,7 @@
 <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="32" height="32">
 </a>
 
+<!--
 <a href="https://www.w3schools.com/html/default.asp">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30">
 </a>
@@ -38,7 +39,7 @@
 <a href="https://react.dev/">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="30" height="30">
 </a>    
-
+-->
 <a href="https://spring.io/">
 <img src= "https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/227/formation-java-spring-web.png" width="30" height="30">
 </a>
