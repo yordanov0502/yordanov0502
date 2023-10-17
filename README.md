@@ -45,7 +45,7 @@
 </a>
       
 <a href="https://www.oracle.com/database/">
-<img src="https://p7.hiclipart.com/preview/263/506/483/oracle-database-oracle-corporation-postgresql-relational-database-management-system-oracle-logo-thumbnail.jpg" width="30" height="30">
+<img src="https://e7.pngegg.com/pngimages/1000/440/png-clipart-database-computer-icons-world-wide-web-internet-storage-icon.png" width="30" height="30">
 </a>
 
 <a href="https://www.postgresql.org/">
