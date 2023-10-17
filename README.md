@@ -22,12 +22,24 @@
 <img src= "https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30">
 </a>
 
-<a href="https://isocpp.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="30">
-</a>
-
 <a href="https://www.w3schools.com/sql/">
 <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="32" height="32">
+</a>
+      
+<a href="https://www.oracle.com/database/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWJi4USbJq-RgjDlA3b04yHNkhwrA-EZ4iMHEO6nMggZmXS197iiHN-GUpP8VxxDe6_4&usqp=CAU" width="30" height="30">
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30">
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="35" height="30">
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="30">
 </a>
 
 <!--
@@ -48,21 +60,6 @@
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="30" height="30">
 </a>    
 -->
-
-      
-<a href="https://www.oracle.com/database/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWJi4USbJq-RgjDlA3b04yHNkhwrA-EZ4iMHEO6nMggZmXS197iiHN-GUpP8VxxDe6_4&usqp=CAU" width="30" height="30">
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30">
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="35" height="30">
-</a>
-
-
                                                                   
 <a href="https://code.visualstudio.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30">
