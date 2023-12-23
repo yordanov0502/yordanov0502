@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://www.w3schools.com/sql/">
-<img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="32" height="32">
+<img src="https://sql-ag.de/wp-content/uploads/2017/12/SQL_Logo_RZ_RGB_blau.png" width="32" height="32">
 </a>
       
 <a href="https://www.oracle.com/database/">
