@@ -59,6 +59,10 @@
 <img src= "https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="30" height="30">
 </a>  
 
+<a href="https://axios-http.com/">
+<img src= "https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" width="30" height="30">
+</a>  
+
 <a href="https://react.dev/">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="30" height="30">
 </a>    
