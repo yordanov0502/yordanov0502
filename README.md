@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://spring.io/">
-<img src= "https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/227/formation-java-spring-web.png" width="30" height="30">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" width="30" height="30">
 </a>
 
 <a href="https://hibernate.org/">
@@ -60,7 +60,7 @@
 </a>  
 
 <a href="https://tanstack.com/query/latest">
-<img src= "https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="30" height="30">
+<img src= "https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" width="30" height="30">
 </a>  
 
 <a href="https://axios-http.com/">
