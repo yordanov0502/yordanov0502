@@ -74,15 +74,7 @@
 <a href="https://isocpp.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="30">
 </a>
-                                                                  
-<a href="https://code.visualstudio.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30">
-</a>
-
-<a href="https://www.jetbrains.com/idea/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="30" height="30">
-</a>
-
+                                                                
 
 
 <h3>Connect with me:</h3>
