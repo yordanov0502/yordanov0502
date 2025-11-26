@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://spring.io/">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" width="30" height="30">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" width="20" height="30">
 </a>
 
 <a href="https://hibernate.org/">
