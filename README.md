@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://www.mongodb.com/">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="35" height="30">
+<img src="https://images.archbee.com/PL8X94efBsjvhfQV3wyyj-fMzoU2zBbnzXG5pDzUALe-20250908-073345.png?format=webp" width="35" height="30">
 </a>
 
 <a href="https://github.com/ben-manes/caffeine">
