@@ -47,11 +47,11 @@
 </a>
 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="30" height="30">
+<img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" width="30" height="30">
 </a>   
 
 <a href="https://sass-lang.com/">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="30" height="30">
+<img src= "https://sass-lang.com/assets/img/styleguide/seal-color.png" width="30" height="30">
 </a>     
 
 
@@ -87,7 +87,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/Todor_Yordanov?hr_r=1">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="30" height="30">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="30" height="30">
 </a>
 
 <a href="https://www.linkedin.com/in/todor-yordanov0502/">
