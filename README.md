@@ -11,31 +11,31 @@
 <h3>Active experience:</h3>
 
 <a href="https://www.java.com/en/">
-<img src="https://softuni.bg/Content/images/university/professions/java.svg" width="30" height="30">
+<img src="https://softuni.bg/Content/images/university/professions/java.svg" width="35" height="35">
 </a>
 
 <a href="https://spring.io/">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" width="20" height="30">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" width="35" height="35">
 </a>
 
 <a href="https://hibernate.org/">
-<img src= "https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="30" height="30">
+<img src= "https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="35" height="35">
 </a>
 
 <a href="https://www.w3schools.com/sql/">
-<img src="https://sql-ag.de/wp-content/uploads/2017/12/SQL_Logo_RZ_RGB_blau.png" width="32" height="32">
+<img src="https://sql-ag.de/wp-content/uploads/2017/12/SQL_Logo_RZ_RGB_blau.png" width="35" height="35">
 </a>
 
 <a href="https://www.postgresql.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="35" height="35">
 </a>
 
 <a href="https://www.mongodb.com/">
-<img src="https://images.archbee.com/PL8X94efBsjvhfQV3wyyj-fMzoU2zBbnzXG5pDzUALe-20250908-073345.png?format=webp" width="35" height="30">
+<img src="https://images.archbee.com/PL8X94efBsjvhfQV3wyyj-fMzoU2zBbnzXG5pDzUALe-20250908-073345.png?format=webp" width="35" height="35">
 </a>
 
 <a href="https://kafka.apache.org/">
-<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fapache_kafka_logo_icon_167865.png&id=167865&pack_or_individual=pack" width="35" height="30">
+<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fapache_kafka_logo_icon_167865.png&id=167865&pack_or_individual=pack" width="35" height="35">
 </a>
 
 <a href="https://hazelcast.com/">
@@ -51,11 +51,11 @@
 </a>
 
 <a href="https://www.docker.com/">
-<img src="https://images.icon-icons.com/2415/PNG/512/docker_original_logo_icon_146556.png" width="35" height="35">
+<img src="https://images.icon-icons.com/2415/PNG/512/docker_original_logo_icon_146556.png" width="40" height="40">
 </a>
 
 <a href="https://azure.microsoft.com/en-us/products/devops">
-<img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png" width="30" height="30">
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png" width="35" height="35">
 </a>
 
 <a href="https://grafana.com/">
@@ -85,40 +85,43 @@
 <h3>Past experience:</h3>
 
 <a href="https://www.oracle.com/database/">
-<img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" width="40" height="40">
+<img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" width="45" height="45">
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://www.entropywins.wtf/blog/wp-content/uploads/2018/10/php-1.png" width="45" height="45">
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="35" height="35">
 </a>
 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-<img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" width="30" height="30">
+<img src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" width="35" height="35">
 </a>   
 
 <a href="https://sass-lang.com/">
-<img src= "https://sass-lang.com/assets/img/styleguide/seal-color.png" width="30" height="30">
+<img src= "https://sass-lang.com/assets/img/styleguide/seal-color.png" width="35" height="35">
 </a>     
 
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src= "https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" width="30" height="30">
+<img src= "https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" width="35" height="35">
 </a>  
 
 <a href="https://tanstack.com/query/latest">
-<img src= "https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" width="30" height="30">
+<img src= "https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" width="35" height="35">
 </a>  
 
 <a href="https://axios-http.com/">
-<img src= "https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" width="30" height="30">
+<img src= "https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" width="35" height="35">
 </a>  
 
 <a href="https://react.dev/">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="30" height="30">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="35" height="35">
 </a>    
 
 <a href="https://isocpp.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="35" height="35">
 </a>
                                                                 
 
