@@ -8,7 +8,7 @@
 <ul>👨‍💻 You can also track my progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
 <ul>📫 For collaborations or any questions you can contact me at <a href="mailto:yordanovtodor281@gmail.com">yordanovtodor281@gmail.com</a></ul>
   
-<h3>I have experience in the following languages and tools as well:</h3>
+<h3>Active experience:</h3>
 
 <a href="https://www.java.com/en/">
 <img src="https://softuni.bg/Content/images/university/professions/java.svg" width="30" height="30">
@@ -24,10 +24,6 @@
 
 <a href="https://www.w3schools.com/sql/">
 <img src="https://sql-ag.de/wp-content/uploads/2017/12/SQL_Logo_RZ_RGB_blau.png" width="32" height="32">
-</a>
-      
-<a href="https://www.oracle.com/database/">
-<img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" width="40" height="40">
 </a>
 
 <a href="https://www.postgresql.org/">
@@ -56,6 +52,40 @@
 
 <a href="https://www.docker.com/">
 <img src="https://images.icon-icons.com/2415/PNG/512/docker_original_logo_icon_146556.png" width="35" height="35">
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/devops">
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_devops_logo_freelogovectors.net_.png" width="30" height="30">
+</a>
+
+<a href="https://grafana.com/">
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/grafana-ipeuuhi0ws3fbikv7ojrk.png/grafana-625ktq51icaz2carazn0n.png?_a=DATAiZAAZAA0" width="35" height="35">
+</a>
+
+<a href="https://argoproj.github.io/cd/">
+<img src="https://metakube.com/content/images/2023/02/argo-icon-color.png" width="35" height="35">
+</a>
+
+<a href="https://maven.apache.org/">
+<img src="https://www.svgrepo.com/show/373829/maven.svg" width="35" height="35">
+</a>
+
+<a href="https://gradle.org/">
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/gradle.png" width="35" height="35">
+</a>
+
+<a href="https://www.sonarsource.com/products/sonarqube/">
+<img src="https://images.seeklogo.com/logo-png/62/1/sonarqube-cloud-logo-png_seeklogo-623047.png" width="35" height="35">
+</a>
+
+<a href="https://junit.org/">
+<img src="https://www.opencodez.com/wp-content/uploads/2019/04/Junit-1.png" width="35" height="35">
+</a>
+
+<h3>Past experience:</h3>
+
+<a href="https://www.oracle.com/database/">
+<img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" width="40" height="40">
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
