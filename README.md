@@ -27,7 +27,7 @@
 </a>
       
 <a href="https://www.oracle.com/database/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWJi4USbJq-RgjDlA3b04yHNkhwrA-EZ4iMHEO6nMggZmXS197iiHN-GUpP8VxxDe6_4&usqp=CAU" width="30" height="30">
+<img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" width="40" height="40">
 </a>
 
 <a href="https://www.postgresql.org/">
@@ -38,8 +38,24 @@
 <img src="https://images.archbee.com/PL8X94efBsjvhfQV3wyyj-fMzoU2zBbnzXG5pDzUALe-20250908-073345.png?format=webp" width="35" height="30">
 </a>
 
+<a href="https://kafka.apache.org/">
+<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fapache_kafka_logo_icon_167865.png&id=167865&pack_or_individual=pack" width="35" height="30">
+</a>
+
+<a href="https://hazelcast.com/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBQPjNn7zptm_FlG3JfwoBquH9yZMU6GmUw&s" width="35" height="35">
+</a>
+
 <a href="https://github.com/ben-manes/caffeine">
-<img src="https://raw.githubusercontent.com/ben-manes/caffeine/master/wiki/logo.png" width="35" height="30">
+<img src="https://raw.githubusercontent.com/ben-manes/caffeine/master/wiki/logo.png" width="35" height="35">
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="35" height="35">
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://images.icon-icons.com/2415/PNG/512/docker_original_logo_icon_146556.png" width="35" height="35">
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
