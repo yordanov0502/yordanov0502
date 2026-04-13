@@ -3,9 +3,9 @@
 
 <!--![GitHub Views](https://komarev.com/ghpvc/?username=yordanov0502)-->
 
-<ul>🏆 I’m keen on competitive programming (1x🥇,1x🥉)</ul>
+<ul>🏆 Former competitive programmer (1x🥇,1x🏆,1x🥉,1x🎖️)</ul>
 <ul>🖥️ Java enthusiast</ul>
-<ul>👨‍💻 You can also track my progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
+<ul>👨‍💻 You can also track my past academic progress at https://www.hackerrank.com/Todor_Yordanov?hr_r=1</ul>
 <ul>📫 For collaborations or any questions you can contact me at <a href="mailto:yordanovtodor281@gmail.com">yordanovtodor281@gmail.com</a></ul>
   
 <h3>Active experience:</h3>
