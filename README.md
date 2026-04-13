@@ -70,10 +70,6 @@
 <img src="https://www.svgrepo.com/show/373829/maven.svg" width="35" height="35">
 </a>
 
-<a href="https://gradle.org/">
-<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/gradle.png" width="35" height="35">
-</a>
-
 <a href="https://www.sonarsource.com/products/sonarqube/">
 <img src="https://images.seeklogo.com/logo-png/62/1/sonarqube-cloud-logo-png_seeklogo-623047.png" width="35" height="35">
 </a>
@@ -86,6 +82,10 @@
 
 <a href="https://www.oracle.com/database/">
 <img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" width="45" height="45">
+</a>
+
+<a href="https://gradle.org/">
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/gradle.png" width="35" height="35">
 </a>
 
 <a href="https://www.php.net/">
