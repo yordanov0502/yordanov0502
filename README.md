@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://spring.io/">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" width="35" height="35">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/960px-Spring_Boot.svg.png" width="35" height="35">
 </a>
 
 <a href="https://hibernate.org/">
@@ -117,11 +117,11 @@
 </a>  
 
 <a href="https://react.dev/">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="35" height="35">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png?_=20220125121207" width="35" height="35">
 </a>    
 
 <a href="https://isocpp.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="35" height="35">
+<img src="https://avatars.githubusercontent.com/u/13841574?v=4" width="35" height="35">
 </a>
                                                                 
 
