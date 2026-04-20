@@ -89,7 +89,7 @@
 </a>
 
 <a href="https://www.php.net/">
-<img src="https://www.entropywins.wtf/blog/wp-content/uploads/2018/10/php-1.png" width="45" height="45">
+<img src="https://www.entropywins.wtf/blog/wp-content/uploads/2018/10/php-1.png" width="40" height="40">
 </a>
 
 <a href="https://www.w3schools.com/html/default.asp">
