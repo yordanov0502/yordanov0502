@@ -132,7 +132,7 @@
 </a>
 
 <a href="https://www.instagram.com/yordanov5.0/">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="35" height="35">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/3840px-Instagram_logo_2016.svg.png" width="35" height="35">
 </a>
 
 <a href="https://www.hackerrank.com/Todor_Yordanov?hr_r=1">
