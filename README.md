@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://kafka.apache.org/">
-<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fapache_kafka_logo_icon_167865.png&id=167865&pack_or_individual=pack" width="35" height="35">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png" width="35" height="35">
 </a>
 
 <a href="https://hazelcast.com/">
